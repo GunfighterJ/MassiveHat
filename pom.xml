@@ -45,7 +45,7 @@
             <groupId>com.tommytony</groupId>
             <artifactId>war</artifactId>
             <version>1.8.1</version>
-            <systemPath>${project.basedir}/lib/war.jar</systemPath>
+            <systemPath>${project.basedir}/lib/War.jar</systemPath>
             <scope>system</scope>
             <optional>true</optional>
         </dependency>
